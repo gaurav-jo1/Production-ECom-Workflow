@@ -1,6 +1,6 @@
-# Production E-Commerce Workflow 🏢
+# Secure State Engine 🏢
 
-Welcome to **Production E-Commerce Workflow**, a full-stack portfolio project demonstrating a production-grade online shopping system. This end-to-end platform goes beyond basic demos, featuring robust authentication (including signup, login, password reset with email validation), Google OAuth integration, user-specific persistent shopping carts, a polished React UI, and a scalable architecture with Docker, PostgreSQL for data persistence, Redis for caching, and a Python backend.
+Welcome to **Secure State Engine**, a full-stack portfolio project demonstrating a production-grade online shopping system. This end-to-end platform goes beyond basic demos, featuring robust authentication (including signup, login, password reset with email validation), Google OAuth integration, user-specific persistent shopping carts, a polished React UI, and a scalable architecture with Docker, PostgreSQL for data persistence, Redis for caching, and a Python backend.
 
 Key highlights:
 - **Secure User Flows**: Complete auth/authorization with email-based recovery and validation codes.
@@ -17,12 +17,12 @@ Follow these steps to set up and run the project locally:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/gaurav-jo1/production-ecom-workflow.git
+   git clone https://github.com/gaurav-jo1/secure-state-engine
    ```
 
 2. Navigate to the project directory:
    ```sh
-   cd production-ecom-workflow
+   cd secure-state-engine
    ```
 
 3. Install frontend dependencies:
@@ -78,4 +78,4 @@ Follow these steps to set up and run the project locally:
 ## Contributing
 Feel free to fork, raise issues, or submit PRs for improvements. This project is designed as a showcase but welcomes enhancements!
 
-Thanks for checking out **Production E-Commerce Workflow**—a testament to building deployable, full-featured systems! 🚀
+Thanks for checking out **Secure State Engine**—a testament to building deployable, full-featured systems! 🚀
